@@ -1,0 +1,11 @@
+.tab-links li {
+
+	margin:0px 50px;
+	float:left;
+
+}
+
+.tab-links a {
+	padding:10	px;
+	color:blue;
+}
